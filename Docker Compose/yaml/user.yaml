@@ -1,0 +1,17 @@
+firstName: Alpian
+middleName: Roymundus
+lastName: Siringo-ringo
+hobbies: 
+  - Coding
+  - Reading
+  - Writing
+address:
+  street: Jl. Dua, Gunung Samarinda
+  city: Balikpapan
+  country: Indonesia
+
+wallet:
+  - type: cash
+    amount: 1000000
+  - type: debit
+    amount: 5000000
